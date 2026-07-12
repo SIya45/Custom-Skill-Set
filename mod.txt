@@ -1,0 +1,28 @@
+{
+	"name" : "Custom Skill Set",
+	"description" : "전체 스킬 커스텀 통합 모드",
+	"author" : "Siya",
+	"version" : "0.1",
+	"hooks" : [
+		{ "comment" : "====================== PRE SETTING ======================" },
+		{
+			"hook_id" : "lib/tweak_data/skilltreetweakdata",
+			"script_path" : "changeTire.lua"
+		},
+	
+		{ "commnet" : "====================== MASTERMIND ======================" },
+		
+		{ "commnet" : "====================== ENFORCER ======================" },
+		
+		{ "commnet" : "====================== TECHNICIAN ======================" },
+		
+		{ "commnet" : "====================== GHOST ======================" },
+		{
+			"hook_id" : "lib/managers/playeraction/playeractionunseenstrike",
+			"script_path" : "ghost/unseen_strike_rebalancing.lua"
+		},
+		
+		{ "commnet" : "====================== FUGITIVE ======================" },
+		
+	]
+}
