@@ -32,6 +32,12 @@
 			"script_path" : "technician/steady_grip.lua"
 		},
 		
+		{ "commnet" : "====================== ENFORCER ======================" },
+		{
+			"hook_id" : "lib/tweak_data/skilltreetweakdata",
+			"script_path" : "enforcer/ammo_2x.lua"
+		},
+		
 		{ "commnet" : "====================== GHOST ======================" },
 		{
 			"hook_id" : "lib/managers/playeraction/playeractionunseenstrike",
