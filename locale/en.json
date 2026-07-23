@@ -1,6 +1,6 @@
 {
-	"menu_stable_shot_beta_desc": "BASIC: You gain 8 weapon accuracy.\n\nACE: You gain 16 additional weapon accuracy.",
-	"menu_medic_2x_beta_desc": "BASIC: Your doctor bags have 2 more charges.\n\nACE: You can now deploy 2 Doctor Bags instead of just one.",
-	"menu_ammo_2x_beta_desc": "BASIC: Each ammo bag contains 50% more ammunition.\n\nACE: You can now place 2 ammo bags instead of just one.",
-	"menu_steady_grip_beta_desc": "BASIC: You gain 8 weapon stability.\n\nACE: You gain 16 additional weapon stability."
+	"menu_stable_shot_beta_desc": "BASIC: ##$basic;##\n\nYou gain ##$multibasic;## weapon accuracy.\n\nACE: ##$pro;##\nYou gain ##$multipro;## additional weapon accuracy.",
+	"menu_medic_2x_beta_desc": "BASIC: ##$basic;##\nYour doctor bags have ##$multibasic;## more charges.\n\nACE: ##$pro;##\nYou can now deploy ##$multipro;## Doctor Bags instead of just one.",
+	"menu_ammo_2x_beta_desc": "BASIC: ##$basic;##\nEach ammo bag contains ##50%## more ammunition.\n\nACE: ##$pro;##\nYou can now place ##2## ammo bags instead of just one.",
+	"menu_steady_grip_beta_desc": "BASIC: ##$basic;##\nYou gain ##$multibasic;## weapon stability.\n\nACE: ##$pro;##\nYou gain ##$multipro;## additional weapon stability."
 }
